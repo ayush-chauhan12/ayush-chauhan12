@@ -1,10 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Ayush Chauhan</span></h1>
-<h3 align="center">Java Full Stack Developer | Cloud & Microservices Enthusiast</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&margin-w=10" />
-</p>
+<h3 align="center">Java Full Stack Developer | Ruby on Rails Enthusiast</h3>
 
 ---
 
@@ -42,9 +38,9 @@ cloud deployments, microservices, and secure REST API ecosystems.
 
 ## 💼 Work Experience  
 
-### ⭐ **Star India Private Limited (JioStar)**  
+### ⭐ **JioStar India Private Limited (JioHotstar)**  
 **Executive | Nov 2024 – Present**  
-- Transitioned to **JioStar** as part of the Viacom18–Disney+Hotstar corporate merger.  
+- Transitioned to **JioStar** as part of the Viacom18–Star (Disney Hotstar) corporate merger.  
 - Leading development of a secure web portal to validate athlete Aadhar data using **UIDAI APIs**, integrating advanced OCR for automating nomination workflows for leagues like **PKL** & **WPL**.  
 - Implementing cybersecurity standards across public-facing applications.  
 - Customized Viacom18’s **RMS & Enterprise Systems** for cross-org accessibility.  
