@@ -13,13 +13,8 @@
 💼 **Java Full Stack Developer** with hands-on experience in building scalable enterprise applications,  
 cloud deployments, microservices, and secure REST API ecosystems.
 
-🔭 Currently working at **Star India Pvt. Ltd. (JioStar)**  
+🔭 Currently working at **JioStar India Pvt. Ltd.**  
 🌐 Previously at **Viacom18 Media Pvt. Ltd.**
-
-📍 **Location:** Noida (U.P.)  
-📞 **Contact:** 9536367998  
-📧 **Email:** ayushc12dec@gmail.com  
-🔗 **LinkedIn:** [ayush-chauhan12](https://www.linkedin.com/in/ayush-chauhan12)
 
 ---
 
@@ -70,16 +65,6 @@ cloud deployments, microservices, and secure REST API ecosystems.
 - Built UI for report module in internal sales application.  
 - Wrote **JUnit + Mockito** test suites for legal application.  
 - Gained domain expertise by working with product, legal & media workflow teams.
-
----
-
-## 🎓 Education  
-
-**B.Tech (CSE)** – Galgotias University, Greater Noida  
-**CGPA:** 7.8 (2018–2022)  
-
-### 📜 Certifications  
-- Core Java Certification – DUCAT Training Institute (Noida)
 
 ---
 
